@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this unofficial implementation, please cite the original paper."
+title: "ACE-Step-Unofficial"
+authors:
+  - family-names: "Liu"
+    given-names: "Minghao"
+repository-code: "https://github.com/StaryMoon/ACE-Step-Unofficial"
+license: "MIT"
+date-released: "2026-06-11"
+references:
+  - type: article
+    title: "ACE-Step: A Step Towards Music Generation Foundation Model"
+    authors:
+      - name: "Junmin Gong et al."
+    year: 2025
+    url: "https://arxiv.org/abs/2506.00045"
